@@ -1,0 +1,36 @@
+present simple
+	positive:subject + 动词
+	i/we/you/they      动词原型
+	he/she/it              动词+s
+
+	negative:subject + don't(do not)/doesn't(does not) + 动词
+		 i/we/you/they + don't
+		 he/she/it     + doesn't
+	
+	question:do/does + subject + 动词原型	
+		 i/we/you/they    do
+	 	 he/she/it        does
+	
+	passive:am/is/are后加 past participle
+	passive question:am/is/are + subject + past participle
+		i           am
+		he/she/it   is
+		we/you/they are
+
+past simple 
+	positive:subject + past simple
+	
+	negative:subject + didn't(did not) + infinitive
+
+	question:did + subject + infinitive
+	
+	passive: was/were后加 past participle
+	passive question:was/were + subject + past participle
+	special case:was/were born  (where were + subject + born?)
+
+	was/were遵循如下规则:
+	i/he/she/it    was
+	we/you/they    were
+	否定句是wasn't/weren't
+
+

@@ -1,0 +1,16 @@
+present simple
+	在动词前加am/is/are 来表示被动语态的
+	如果是否定句的话 也只需要在am/is/are后面加上not就可
+
+past simple
+	则是在动词前加was/were来表示被动语态
+	否定句也同样是加not
+
+还有一点共通的就是表示被动语态的话动词都要改用过去分词形态
+所以唯一可以用来区分present simple和past simple的方法就是看
+动词前的am/is/are和was/were了
+
+动词的过去分词形态的规则形态是在动词其后加-ed
+不规则形态可以参考Appendix 2-3
+
+am或was 后接的也可以不是动词而是形容词
