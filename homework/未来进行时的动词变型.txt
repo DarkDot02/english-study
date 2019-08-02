@@ -2,7 +2,7 @@
 	positive:subject + am/is/are + doing + future
 	i            	 	am 	     doing
 	he/she/it		is 	     doing
-	we/you/they	are  	     doing
+	we/you/they		are  	     doing
 	
 	question:am/is/are + subject + doing + future
 
