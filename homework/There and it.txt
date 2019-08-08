@@ -25,5 +25,6 @@ there will be
 It ...
 We use it for time/day/distance/weather
 
+distance
 We use far in questions (is it far?) and negatives (it isn't far).
 In positive sentences,we use a long way (it's a long way).
